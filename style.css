@@ -338,7 +338,7 @@ ul li a:hover {
   .nav-links {
     position: absolute;
     right: 0px;
-    height: 90vh;
+    height: 95vh;
     top: 10vh;
     background-color: #000;
     display: flex;
@@ -460,10 +460,11 @@ ul li a:hover {
   border-radius: 30px;
   padding: 3%;
 }
-.container1:hover{ 
-    box-shadow:  0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 55, 0.19);
-    -webkit-transition:  box-shadow .6s ease-in;
-  }
+.container1:hover {
+  box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2),
+    0 6px 20px 0 rgba(255, 255, 55, 0.19);
+  -webkit-transition: box-shadow 0.6s ease-in;
+}
 .img1 {
   height: 50px;
   width: 50px;
